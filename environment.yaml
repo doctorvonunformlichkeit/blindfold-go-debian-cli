@@ -1,0 +1,13 @@
+name: blindfold-go-cli
+#channels:
+#- menpo
+#- defaults
+dependencies:
+- pip :
+  - speechrecognition
+  - pyttsx3
+  - comtypes
+  - pyaudio
+
+
+
